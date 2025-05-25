@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alireza Esmaeilpour</h1>
-<h3 align="center">An Artificial Intelligence Developer & Specialist from Gilan/Iran.</h3>
+<h3 align="center">An Artificial Intelligence Developer & Specialist from Gilan/Iran</h3>
 
 - 🔭 I’m currently working on [Vehicle Fuel Consumption Predictor Model (VFCPM).](https://github.com/Alireza-Esp/VFCPM)
 
-- 🌱 I’m currently learning **Artificial Neural Networks & Deep Learning**
+- 🌱 I’m currently learning **Artificial Neural Networks & Deep Learning**.
 
-- 👯 I’m looking to collaborate on **related practical projects.**
+- 👯 I’m looking to collaborate on **related practical projects**.
 
-- 🤝 I’m looking for help with **Machine Learning Engineering.**
+- 🤝 I’m looking for help with **Machine Learning Engineering**.
 
 - 📝 I regularly write articles on [Softhinker (coming soon...).](Softhinker (coming soon...).)
 
