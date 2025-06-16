@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alireza Esmaeilpour</h1>
-<h3 align="center">An Artificial Intelligence Developer & Specialist from Gilan/Iran</h3>
+<h3 align="center">An Artificial Intelligence Specialist (Data Scientist & Machine Learning Engineer) from Gilan/Iran</h3>
 
 - 🔭 I’m currently working on [Vehicle Fuel Consumption Predictor Model (VFCPM).](https://github.com/Alireza-Esp/VFCPM)
 
@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **Machine Learning Engineering**.
 
-- 📝 I regularly write articles on [Softhinker (coming soon...).](Softhinker (coming soon...).)
+- 📝 I regularly write articles on Softhinker. (coming soon...)
 
 - 💬 Ask me about **Python, Machine Learning, and ...**
 
 - 📫 How to reach me **Alireza.esp07@gmail.com**
 
-- 📄 Know about my experiences and projects [http://alireza-esp.ir](http://alireza-esp.ir)
+- 📄 Know about my experiences and projects http://alireza-esp.ir
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
