@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to collaborate on **related practical projects**.
 
-- 📝 I regularly write articles on Softhinker. (coming soon...)
+- 📝 I regularly write articles on **Softhinker** (coming soon...)
 
 - 💬 Ask me about **Python, Machine Learning, and ...**
 
