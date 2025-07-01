@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Neural Networks & Deep Learning**.
 
-- 👯 I’m looking to collaborate on **related practical projects**.
-
-- 🤝 I’m looking for help with **Machine Learning Engineering**.
+- 🤝 I’m looking to collaborate on **related practical projects**.
 
 - 📝 I regularly write articles on Softhinker. (coming soon...)
 
