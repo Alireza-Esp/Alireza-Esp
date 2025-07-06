@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Esmaeilpour</h1>
 <h3 align="center">An Artificial Intelligence Specialist (Data Scientist & Machine Learning Engineer) from Gilan/Iran</h3>
 
-- 🔭 I’m currently working on [Vehicle Fuel Consumption Predictor Model (VFCPM).](https://github.com/Alireza-Esp/VFCPM)
+- 🔭 I’m currently working on [Python Packaging Course - Faradars.](#)
 
 - 🌱 I’m currently learning **Artificial Neural Networks & Deep Learning**.
 
