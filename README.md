@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Esmaeilpour</h1>
 <h3 align="center">An Artificial Intelligence Specialist (Machine Learning Engineer & Data Scientist) from Gilan/Iran</h3>
 
-- 🔭 I’m currently working on [Python Packaging Course - Faradars.](#)
+- 🔭 I’m currently working on [Python Packaging Course - Faradars.](https://faradars.org/courses/python-library-creation-fvpy415)
 
 - 🌱 I’m currently learning **Artificial Neural Networks & Deep Learning**.
 
